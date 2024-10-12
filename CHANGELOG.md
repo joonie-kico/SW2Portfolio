@@ -12,7 +12,12 @@ the following form: YYYY.0M.0D.
 
 ### Added
 
-- Updated component-proof-of-comcept
+- Designed a proof of concept for `GameEntity` component
+- Added `GameEntityTest.java` class file for proof of concept.
+
+### Updated
+
+- Updates `component-proof-of-concept` file.
 
 ## [2024.09.15]
 
