@@ -8,7 +8,13 @@ the following form: YYYY.0M.0D.
 
 ## [Unreleased]
 
-## [2024.08.07]
+## [2024.10.12]
+
+### Added
+
+- Updated component-proof-of-comcept
+
+## [2024.09.15]
 
 ### Added
 
@@ -68,5 +74,4 @@ the following form: YYYY.0M.0D.
 - Added READMEs to key folders like `test` and `lib` to explain their purpose
 
 [unreleased]: https://github.com/jrg94/portfolio-project/compare/v2024.08.07...HEAD
-[2024.08.07]: https://github.com/jrg94/portfolio-project/compare/v2024.01.07...v2024.08.07
 [2024.01.07]: https://github.com/jrg94/portfolio-project/releases/tag/v2024.01.07
