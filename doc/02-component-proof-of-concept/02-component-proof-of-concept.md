@@ -110,8 +110,6 @@ entities in simple 2D RPG game with essential methods.
 > we'll want a branch that you can later make a pull request from with all
 > your changes.
 
-<!-- TODO: make a new branch from main then delete this comment -->
-
 ## Assignment Tasks
 
 As stated previously, your goal with this assignment is to produce a Java
@@ -156,7 +154,7 @@ the following form: YYYY.0M.0D.
 
 ### Added
 
-- Designed a proof of concept for <!-- insert name of component here --> component
+- Designed a proof of concept for 'GameEntity' component
 
 ### Updated
 

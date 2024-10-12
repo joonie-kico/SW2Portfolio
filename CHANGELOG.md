@@ -12,7 +12,11 @@ the following form: YYYY.0M.0D.
 
 ### Added
 
-- Updated component-proof-of-comcept
+- Designed a proof of concept for 'GameEntity' component
+
+### Updated
+
+- Changed design to include component-proof-of-comcept
 
 ## [2024.09.15]
 
